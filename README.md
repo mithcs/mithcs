@@ -1,12 +1,12 @@
 # Hi there, I'm Mitesh! 👋
 
-Welcome to my GitHub profile! I'm currently pursuing a Diploma in Computer Engineering with a strong passion for Software Engineering. 
+Welcome to my GitHub profile! You can check out my website [here](https://miteshhc.netlify.app).
 
 ## 🥷 About Me
-- 🌐 Visit my [Personal website](https://miteshhc.netlify.app).
+- 🎓️ I'm currently pursuing Diploma in Computer Engineering.
 - 🖥️ I'm a tech enthusiast who loves to experiment with new tools and technologies.
-- 🛡️ Currently learning **Rust** and enjoying the journey of learning this powerful language.
-- ⚡ Fun Fact: I use **Arch Linux** *btw* (with i3) because it supports *NVIDIA 340.xx* drivers seamlessly. There's more to it than this though.
+- 🍁 I enjoy working on new projects, as well as improving existing projects.
+- ⚡ Fun Fact: I use **Arch Linux**[with i3] *btw* because it supports *NVIDIA 340.xx* drivers seamlessly. There's more to it than this though.
 
 
 Feel free to reach out via email at **smiteshhc@gmail.com**.
