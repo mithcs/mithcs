@@ -2,7 +2,7 @@
 
 <img src="./name.png" alt="MITESH H. SONI"/>
 
-### Welcome to my GitHub profile! You can check out my website [here]("https://miteshhc.netlify.app").
+### Welcome to my GitHub profile! You can check out my website [here](https://miteshhc.netlify.app).
 
 ## 🥷 About Me
 - 🎓️ I'm currently pursuing Diploma in Computer Engineering.
