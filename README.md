@@ -1,9 +1,8 @@
-<center>
-<h1> Hey there, I'm</h1>
+# Hey there, I'm
+
 <img src="./name.png" alt="MITESH H. SONI"/>
 
-<h3>Welcome to my GitHub profile! You can check out my website <a href="https://miteshhc.netlify.app">here</a>.</h3>
-</center>
+### Welcome to my GitHub profile! You can check out my website [here]("https://miteshhc.netlify.app").
 
 ## 🥷 About Me
 - 🎓️ I'm currently pursuing Diploma in Computer Engineering.
