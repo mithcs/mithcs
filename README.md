@@ -1,5 +1,5 @@
 <center>
-<h1> Hey there, I'm</h1>.
+<h1> Hey there, I'm</h1>
 <img src="./name.png" alt="MITESH H. SONI"/>
 
 <h3>Welcome to my GitHub profile! You can check out my website <a href="https://miteshhc.netlify.app">here</a>.</h3>
